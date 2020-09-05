@@ -14,5 +14,5 @@ let pakhi;
 // let fun = undefined;
 // console.log(fun);
 
-let ages = [23, 45, 12];
-console.log(ages[7]);
+// let ages = [23, 45, 12];
+// console.log(ages[7]);
